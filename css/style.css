@@ -3,6 +3,9 @@
 }
 
 @media (max-width: 1024px) {
+  .text-black {
+    font-size: 22px;
+  }
   .site-menu li {
     font-size: 14px;
   }
